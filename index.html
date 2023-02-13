@@ -12,7 +12,7 @@
   
             /* Copy selected text into clipboard */
             navigator.clipboard.writeText(Text.value);
-  
+  		console.log(Text.value)
             /* Set the copied text as text for 
             div with id clipboard */
             //document.getElementById("clipboard").innerHTML = Text.value;
@@ -105,7 +105,7 @@ function myFunction() {
 	{
 		enteredEmo = enteredEmo.concat(enteredEmo);
 	}
-	var result = 'ຸ';
+	var result = " ຸ";
 	var emoInd = 0;
 
 	for(var i = 0; i < messageLen; i++)
@@ -121,8 +121,9 @@ function myFunction() {
 		result = result + "\n\n\n" + newStr;
 		emoInd = emoInd+1;
 	}
-	//console.log(result)
-	document.getElementById("w3review").value = result;		
+	console.log(result)
+	document.getElementById("w3review").value = result;
+		
 	
 }
 </script>
