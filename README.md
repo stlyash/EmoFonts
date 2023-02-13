@@ -1,5 +1,5 @@
 <h1 align = "Center">EmoFonts</h1>
-Have you ever wanted to use the power of emojis to create beautiful fonts? Well, now you can! This webpage allows users to create their own unique fonts from the different emojis they provide. You can create unique and interesting designs that will set your brand apart from others. With this new tool, it's easy and exciting to discover creative possibilities. Try it out today!<br><br>
+Have you ever wanted to use the power of emojis to create beautiful fonts? Well, now you can! This webpage allows users to create their own unique fonts from the different emojis they provide. You can create unique and interesting fonts that will set your texts apart from others. With this new tool, it's easy and exciting to discover creative possibilities. Try it out today!<br><br>
 
 ![image](https://user-images.githubusercontent.com/66861659/218363310-be883c3b-0e87-4db9-bb5a-e37f60c05256.png)
 
